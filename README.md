@@ -55,7 +55,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 
 ## [](#license):memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/Alessandro1979-itac/DIOmarketplace/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/Alessandro1979-itac/DIOmarketplace/blob/main/LICENSE) for more information.
 
 ----------
 
